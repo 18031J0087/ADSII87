@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 class Edge 
 {
-@Override
 	public String toString() {
 		return  " "+v + "-" + w + "  " + (float)weight +"0000"+"  ";
 	}
